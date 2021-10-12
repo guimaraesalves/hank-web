@@ -1,6 +1,5 @@
 altgraph==0.17
 appdirs==1.4.3
-apturl==0.5.2
 asgiref==3.3.1
 basemap-Jim==0.1.1
 bcrypt==3.1.7
