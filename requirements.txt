@@ -34,7 +34,6 @@ include==0.2.2
 itsdangerous==2.0.1
 Jinja2==3.0.2
 joblib==1.0.1
-kazam==1.4.5
 keyring==18.0.1
 Kivy==2.0.0
 Kivy-Garden==0.1.4
