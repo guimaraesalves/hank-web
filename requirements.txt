@@ -86,7 +86,6 @@ PyQt5-stubs==5.15.2.0
 pyRFC3339==1.1
 PySide6==6.0.2
 PySimpleGUI==4.35.0
-python-apt==2.0.0+ubuntu0.20.4.6
 python-dateutil==2.7.3
 python-debian===0.1.36ubuntu1
 pytz==2019.3
