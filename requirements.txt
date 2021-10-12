@@ -15,7 +15,6 @@ click==8.0.3
 colorama==0.4.3
 cryptography==2.8
 cycler==0.10.0
-cymem==2.0.5
 dbus-python==1.2.16
 distlib==0.3.0
 distro==1.4.0
@@ -49,7 +48,6 @@ mathparse==0.1.2
 matplotlib==3.3.4
 monotonic==1.5
 more-itertools==4.2.0
-murmurhash==1.0.5
 netifaces==0.10.4
 nltk==3.5
 numpy==1.20.1
@@ -62,7 +60,6 @@ Pillow==7.0.0
 Pint==0.16.1
 pipenv==11.9.0
 plac==0.9.6
-preshed==2.0.1
 protobuf==3.6.1
 pycairo==1.16.2
 pycparser==2.20
@@ -105,7 +102,6 @@ SQLAlchemy==1.2.19
 sqlparse==0.4.1
 srsly==1.0.5
 systemd-python==234
-thinc==7.0.8
 tk==0.1.0
 toolz==0.11.1
 tqdm==4.58.0
